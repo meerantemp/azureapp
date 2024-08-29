@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "FunctionAppTest": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7121",
+      "environmentVariables": {
+        "DOTNET_": "stage"
+      }
+    }
+  }
+}
